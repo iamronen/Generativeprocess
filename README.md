@@ -56,7 +56,7 @@ Assuming that you have a Github account as instructed in the General section ple
 		- If you find an error here, its because you had a shell open when you started the Git install. Just quit the shell, reopen and try again. It shouldn't happen if you've followed this guide precisely, but its worth noting. 
 	- Once the clone operation is complete you can close the shell. You'll be able to look in your documents folder (or alternative location) and see that the Obsidian Vault is there. You can now safely forget everything you've just been through, though some of these skills may be helpful in the future. 
 
-#### Gettin notes into Obsidian
+#### Getting notes into Obsidian
 - Download Obsidian from: https://obsidian.md
 - Open Obsidian. It will be blank for now. 
 - to open the vault you just downloaded click "Open another vault" at the bottom of the ribbon on the left hand side.
