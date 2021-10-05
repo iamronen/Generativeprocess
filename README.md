@@ -82,3 +82,20 @@ YOU ARE NOW SETUP!
 
 #### Other info
 The structure of the vault currently has a lot of redundant  "index" pages (duplication over scale). This was just to demonstrate possibilities and we may wish to prune some of these. The structure we wish to embrace should be deliberatly pruned by Ronens dictation or if he wishes a consensus modality. 
+
+
+#### Pull Requests
+When you have a contribution that you wish to add to the SoCoDoJo repo you need to make a pull request. This is the equivelent of saying, "hey, I've made changes to your repo - do you want to add them?". This can be done in several ways but using the Github GUI is probably the easiest. 
+
+- Make sure changes made in your vault have been pushed to your fork on github. Obsidian is setup to do this automagically every couple of minuites but outside of our specific context it may not be the case (typically you'll drop into a terminal and use the command `git push`).
+- Go to your personal fork on Github
+- Check that the most recent commit has been pushed. 
+	- You can chek this by looking a couple of rows down from the green code button to find a clock icon with the number of commits, to the left of this you'll see a section that says `X minuites ago`. Theres also a timestamp of the last commit to the left of this. 
+- Assuming that all is good here, you will want to find the `contribute` button. To the left of the green `code` button is `go to file`. The `contribute` button is directly below this. Click this button to open up a small menu.
+- Click the green `Open Pull Request` button
+	- This will take you into the SoCoDoJo (organisational) repository and present a bunch of options under the heading of "Comparing Changes". For now we'll not cover everything on the page, but here you can essentially see the changes you made to the repo.
+- On this screen you'll see a grey section up top thats asking you to specify repositories. For our specific context, these will be correct. Head repository should be your personal fork, and base repository is the `SoCoDoJo/Generativeprocess` repo. Both branches are automatically correct and should both be set to main. 
+- Now click the green `create pull request button`. 
+- Your taken to a form. Pick a descriptive title and describe what you've added in the comment body.
+- Now click the green `create pull request button`.
+- THATS IT. Your pull request has been made. You might ask the maintainer to review it for merge, though notifications should come through automatically and they are usually notified. You can now see this in the repos `Pull Requests` tab.
