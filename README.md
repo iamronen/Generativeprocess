@@ -98,4 +98,4 @@ When you have a contribution that you wish to add to the SoCoDoJo repo you need 
 - Now click the green `create pull request button`. 
 - Your taken to a form. Pick a descriptive title and describe what you've added in the comment body.
 - Now click the green `create pull request button`.
-- THATS IT. Your p
+- THATS IT. Your pull request has been made. You might ask the maintainer to review it for merge, though notifications should come through automatically and they are usually notified. You can now see this in the repos `Pull Requests` tab.
