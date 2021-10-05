@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testing.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "README.md"
               }
             }
           }
@@ -106,8 +106,8 @@
   },
   "active": "2be6bfbaf33fc264",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
+    "Untitled.md",
     "Shared Space/Digital Space/The Space/Money/GENSEQ - Why Money/GENSEQ - Why Money? Index.md",
     "Shared Space/Digital Space/The Space/Money/GENSEQ - How Money?/GENSEQ - How Money Index.md",
     "Shared Space/Digital Space/Untitled.md",
