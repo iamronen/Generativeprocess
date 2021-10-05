@@ -96,4 +96,6 @@ When you have a contribution that you wish to add to the SoCoDoJo repo you need 
 	- This will take you into the SoCoDoJo (organisational) repository and present a bunch of options under the heading of "Comparing Changes". For now we'll not cover everything on the page, but here you can essentially see the changes you made to the repo.
 - On this screen you'll see a grey section up top thats asking you to specify repositories. For our specific context, these will be correct. Head repository should be your personal fork, and base repository is the `SoCoDoJo/Generativeprocess` repo. Both branches are automatically correct and should both be set to main. 
 - Now click the green `create pull request button`. 
-- Your taken to a form. In the title 
+- Your taken to a form. Pick a descriptive title and describe what you've added in the comment body.
+- Now click the green `create pull request button`.
+- THATS IT. Your p
