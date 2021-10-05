@@ -94,4 +94,4 @@ When you have a contribution that you wish to add to the SoCoDoJo repo you need 
 - Assuming that all is good here, you will want to find the `contribute` button. To the left of the green `code` button is `go to file`. The `contribute` button is directly below this. Click this button to open up a small menu.
 - Click the green `Open Pull Request` button
 	- This will take you into the SoCoDoJo (organisational) repository and present a bunch of options under the heading of "Comparing Changes". For now we'll not cover everything on the page, but here you can essentially see the changes you made to the repo.
-- On this screen you'll see a grey section up top with menus 
+- On this screen you'll see a grey section up top thats asking you to specify repositories. For our specific context, these will be correct. Head repository should be your personal fork, and base repository is the SoCo 
