@@ -89,5 +89,6 @@ When you have a contribution that you wish to add to the SoCoDoJo repo you need 
 
 - Make sure changes made in your vault have been pushed to your fork on github. Obsidian is setup to do this automagically every couple of minuites but outside of our specific context it may not be the case (typically you'll drop into a terminal and use the command `git push`).
 - Go to your personal fork on Github
-- Check that the most recent co
+- Check that the most recent commit has been pushed. 
+	- You can chek this by looking a couple of rows down from the green code button to find a clock icon with the number of commits 
 
