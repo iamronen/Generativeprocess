@@ -85,5 +85,7 @@ The structure of the vault currently has a lot of redundant  "index" pages (dupl
 
 
 #### Pull Requests
-When you have a contribution that you wish to add to the SoCoDoJo repo you need to make a pull request. This is the equivelent of saying, "hey, I've made changes to your repo - do you want to add them?". This can be done in several ways but using the vi
+When you have a contribution that you wish to add to the SoCoDoJo repo you need to make a pull request. This is the equivelent of saying, "hey, I've made changes to your repo - do you want to add them?". This can be done in several ways but using the Github GUI is probably the easiest. 
+
+- Make sure changes made in your vault have been pushed to your fork on github. Obsidian is setup to do this automagically but outside of our specific context it may not be 
 
