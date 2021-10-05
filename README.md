@@ -84,8 +84,6 @@ YOU ARE NOW SETUP!
 The structure of the vault currently has a lot of redundant  "index" pages (duplication over scale). This was just to demonstrate possibilities and we may wish to prune some of these. The structure we wish to embrace should be deliberatly pruned by Ronens dictation or if he wishes a consensus modality. 
 
 
-
-
-#### Linux
-Tonis stuff to add here? Using this update to figure out pull requests either way
+#### Pull Requests
+When you have a contribution that you wish to add to the 
 
