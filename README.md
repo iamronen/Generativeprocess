@@ -91,5 +91,6 @@ When you have a contribution that you wish to add to the SoCoDoJo repo you need 
 - Go to your personal fork on Github
 - Check that the most recent commit has been pushed. 
 	- You can chek this by looking a couple of rows down from the green code button to find a clock icon with the number of commits, to the left of this you'll see a section that says `X minuites ago`. Theres also a timestamp of the last commit to the left of this. 
-- Assuming that all is good here, you will want to find the `contribute` button. This is 
+- Assuming that all is good here, you will want to find the `contribute` button. To the left of the green `code` button is `go to file`. The `contribute` button is directly below this. Click this button to open up a small menu.
+- Click `Open Pull `
 
