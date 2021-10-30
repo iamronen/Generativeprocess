@@ -2,7 +2,7 @@
 [[_money-core-purpose]]
 [[Source]]
 [[Giving Money to the Space]]
-[[[Beneficiary]]]
+[[Beneficiary]]
 [[Receiving Money from the Space]]
 [[Holding Money]]
 
