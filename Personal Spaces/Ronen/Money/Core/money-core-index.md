@@ -1,2 +1,4 @@
-Incoming  
-Holding
+Receiving Money 
+Holding Money
+Giving Money
+
