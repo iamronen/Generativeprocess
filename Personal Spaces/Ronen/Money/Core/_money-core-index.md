@@ -1,6 +1,6 @@
+# Money Core Sequence
 [[Receiving Money]]
-[[]]
-Holding Money
+[[Holding Money]]
 [[Giving Money]]
 
 
