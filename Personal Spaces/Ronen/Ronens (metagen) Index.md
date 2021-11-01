@@ -1,5 +1,6 @@
 # Metagen Structural Index
 
+Added something for syncing. and something more ...
 #### [[A Generative Sequence Index]]
 - [[Coming into Being]]
 - [[Generative Sequence]]
