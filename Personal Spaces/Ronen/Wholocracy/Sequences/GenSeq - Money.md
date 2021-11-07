@@ -10,6 +10,10 @@ The scope of the domain of Money within the digital space.
 3. ![[Personal Spaces/Ronen/Wholocracy/Cards/Money/_Core/Payment]]
 4. ![[Personal Spaces/Ronen/Wholocracy/Cards/Money/_Core/Investment]]
 5. ![[Budgets]]
-6. ![[Salaries]]
-7. ![[Revenue Sharing]]
-8. ![[Retirement Funding]] 
+
+
+%%
+1. ![[Salaries]]
+2. ![[Revenue Sharing]]
+3. ![[Retirement Funding]] 
+%%
