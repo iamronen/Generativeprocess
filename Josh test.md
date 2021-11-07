@@ -1,0 +1,1 @@
+Testing for ronen with my old version from setup. Sync is on and should automatically pull and push still. 
