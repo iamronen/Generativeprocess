@@ -6,4 +6,4 @@ I now go to terminal, commit this message and push the updates.
 
 You should be able to go to gitkraken and pull, then make changes, commit and push back.
 
-This is the vault I initialised with auto sync. Will something go wrong in here??
+This is the vault I initialised with auto sync. Will something go wrong in here?? So far no, however I'm curious if multiple people syncing will crash something or 
