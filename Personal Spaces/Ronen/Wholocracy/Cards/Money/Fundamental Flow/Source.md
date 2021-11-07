@@ -1,2 +1,2 @@
 # Source
-A source is an individual or group of individuals who have a vested interest in manifesting the digital space and currency available to give to the space for that purpose.
+A source is an individual or group of individuals who have a vested interest in the manifestation of the digital space and directs currency into the space for that purpose.

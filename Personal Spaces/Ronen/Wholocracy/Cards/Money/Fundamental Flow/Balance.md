@@ -1,2 +1,2 @@
-# Balance
-When money is placed into the digital space, the balance increases by the amount given. When money is taken out of the structure the balance of the digital space, the balance decreases by the extracted amount.
+# Financial Balance
+The financial balance is effected by the flows of money. In Flows increases the balance and out-flows reduce it. 

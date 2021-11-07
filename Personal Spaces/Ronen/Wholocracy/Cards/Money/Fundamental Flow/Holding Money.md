@@ -1,2 +1,2 @@
-# Holding Money
-Money that has been given by sources into the digital space and has not yet been directed to beneficiaries is held in the digital space.
+# Available Money
+When the financial balance is positive money is available for flowing through or out of the digital space. 
