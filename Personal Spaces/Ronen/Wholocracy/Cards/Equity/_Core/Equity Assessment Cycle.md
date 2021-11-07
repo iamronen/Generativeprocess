@@ -1,0 +1,2 @@
+# Equity Assessment Cycle
+The time between a previous equity assessment and the current equity assessment is an equity assessment cycle. The period of time of an equity assessment cycle contains at least one [[Work Cycle]]. the equity assessment cycle is informed by the [[GenSeq - Contributions]] and changes to the [[GenSeq - Whole]] that took place during this period of time.

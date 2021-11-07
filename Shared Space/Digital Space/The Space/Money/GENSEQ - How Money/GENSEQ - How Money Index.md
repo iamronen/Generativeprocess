@@ -5,5 +5,5 @@
 [[Relationship]]
 [[Inquiry]]
 [[Values]]
-[[Investment]]
+[[Shared Space/Digital Space/The Space/Money/GENSEQ - How Money/Investment]]
 [[Well Being]]
