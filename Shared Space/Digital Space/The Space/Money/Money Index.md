@@ -29,7 +29,7 @@
 - [[Collective Value Agreement]]
 - [[Asymmetry of Value]]
 - [[Open Value Agreement]]
-- [[Payment]]
+- [[Shared Space/Digital Space/The Space/Money/GENSEQ - Value Agreement/Payment]]
 - [[Investment - value agreement]]
 - [[Gift]]
 - [[Debt]]
