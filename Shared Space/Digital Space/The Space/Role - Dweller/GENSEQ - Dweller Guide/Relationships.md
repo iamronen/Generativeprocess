@@ -1,3 +1,0 @@
-# Relationships
-
-A relationship is a soft mutual agreement between two people. There are different kinds of relationships. When you are new to the space you are a stranger to everyone except the host who welcomed you to the space. Your relationship with the host is as an acquaintance. Your relationship to people changes as you get better acquainted, attend activities together, experience attraction and make connections. When you look at a person you see only what that person wants you to see within your relationship. Your ability to interact with another person also depends on your relationship.

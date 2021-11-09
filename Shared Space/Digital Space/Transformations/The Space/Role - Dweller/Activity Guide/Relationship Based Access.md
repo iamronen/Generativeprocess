@@ -1,0 +1,3 @@
+##### Relationship Based Access
+
+Some activities are intended for individuals, others for dyads and others for crews. The activities you have access to depend on your relationships with other members of the space. As an individual you have access to activities that are intended for individuals. If you are in a dyad relationships then you have access to activities that are for dyads. If you are in crew relationships then you have access to activities that are for crews.

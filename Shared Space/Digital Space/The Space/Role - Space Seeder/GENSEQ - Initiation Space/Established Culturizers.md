@@ -1,3 +1,0 @@
-# Established Culturizers
-
-Culturizers are people who are already actively holding practice spaces for others. They started their own journey here in this Initiation space until they moved on to create and hold Spaces on their own. Their role, within the spaces they hold, is to listen to the space and tend to its well-being by delicately nudging the culture. They continue to be present in the Initiation Space both to explore and develop the art of Culturizing and to offer guidance to new Space Seeders.

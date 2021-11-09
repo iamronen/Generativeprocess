@@ -1,3 +1,0 @@
-# Activity Guide
-
-The activity guide presents to you activities that are occurring in the space. It helps you discover and identify activities that are available to and suitable for you. The activity guide is responsive to what is happening in the space and to your relationships (as they form and change) with others in the space. Now, since you are new to the space, the event guide presents to you events that are suitable for an individual who is new to the space. See GENSEQ: Activity Guide.

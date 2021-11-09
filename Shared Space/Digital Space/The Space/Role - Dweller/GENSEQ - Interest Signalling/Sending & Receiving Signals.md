@@ -1,5 +1,0 @@
-# Sending & Receiving Signals
-
-You, and everyone else in the space, are free to send whatever signals you want. An inherent function of signals is self-reflection: to recognize and note for yourself how you feel about other people. But sending a signal does not guarantee it will be received. Your vulnerability mode shapes what negative signals you receive and the same is true for other people. It is possible that you send a signal that will not be received by the other person and the other person may send you a signal that you will not receive.
-
-Signals that you do not receive continue to exist, but do not reach your awareness. It is possible that over time, circumstances will change. You may become more friendly or intimate with another person and may then be able to receive past signals that you were not aware of. You may also become more resilient and able to receive past signals that in the past were not available to you.
