@@ -6,12 +6,11 @@
 	2. [[GenSeq - Foundations]]
 	3. [[GenSeq - A Morphing Structure]]
 2. Role - Dweller
-	1. [[GenSeq - A Practice Space]]
-	2. [[GenSeq - Welcome]]
-	3. [[GenSeq- Dwellers Guide]]
-	4. [[GenSeq - Activity Guide]]
-	5. [[GenSeq - Participate]]
-	6. [[GenSeq - Interest Signaling]]
+	1. [[GenSeq - A Practice Space]]  + [[GenSeq - Welcome]]
+	2. [[GenSeq- Dwellers Guide]]
+	3. [[GenSeq - Activity Guide]]
+	4. [[GenSeq - Participate]]
+	5. [[GenSeq - Interest Signaling]]
 3. Role - Space Seeder
 	1. [[GenSeq - Seed Space]]
 	2. [[GenSeq - Initiation Space]]
@@ -23,7 +22,7 @@
 ![[GenSeq - A Morphing Structure]]
 
 ## Role: Dweller
-### Welcome to a Practice Space
+### Sequence: Welcome to a Practice Space
 #### Purpose
 Arrival and welcoming into a practice space.
 
