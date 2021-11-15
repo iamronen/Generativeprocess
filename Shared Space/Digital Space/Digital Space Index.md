@@ -10,6 +10,7 @@
 - [[Unknown]]
 - [[Together]]
 - [[Remote - Apart]]
+- [[Solidarity Foundations]]
 - [[Microsolidarity]]
 - [[Experimentation]]
 - [[Practice]]
