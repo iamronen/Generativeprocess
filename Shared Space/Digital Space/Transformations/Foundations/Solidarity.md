@@ -1,4 +1,4 @@
-# Solidarity
+##### Solidarity
 
 Solidarity is when people are in relationship with each other and the natural world so that everyone and everything thrives. Solidarity elicits an embodied experience of relationship and belonging. Solidarity enables us to discover and realize our gifts, to experience fulfillment, and to partake in healthy, equitable relationships with others.
 
