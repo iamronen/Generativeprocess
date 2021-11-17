@@ -1,3 +1,0 @@
-# Entrance
-
-You walk into a soft and welcoming entrance niche. The niche gives you a feeling of safety and containment. It is surrounded by glass panels that give you a view into the practice space. As you look into the space you see people: some are alone, others are paired and some are huddled in small groups. You feel comfortable here in the niche, free to look around at the space. Some people in the space notice you, with some you even make soft eye-contact. You feel seen and acknowledged, but feel no demands to do anything. You feel comfortable staying and you feel comfortable turning around and leaving.

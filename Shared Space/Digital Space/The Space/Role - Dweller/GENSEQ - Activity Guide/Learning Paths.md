@@ -1,3 +1,0 @@
-# Learning Paths
-
-Learning paths are sequences of activities that can guide a dweller through the offerings available in the space. Learning paths can be explicitly shaped by Culturizers and Gardeners. Learning paths can also be informed by the actual learning habits of dwellers in the space. Some learning paths are commonly available and visible to everyone in the space. Some learning paths are revealed by certain activities in the space. The activity guide indicates potential learning paths available to you. The activity guide indicates your progress on learning paths you have embarked on.

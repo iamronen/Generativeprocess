@@ -1,3 +1,0 @@
-# Offering Activities
-
-The Seed Crew assemble an initial offering of activities that are offered in the space. A good offering of activities resonates with the designated purpose of the space, provides opportunities for people who arrive with different needs, different levels of interest and commitment, different motivations, and has a recurring schedule that stretches over a substantial period of time. See [[GENSEQ - Activity Guide Index]]

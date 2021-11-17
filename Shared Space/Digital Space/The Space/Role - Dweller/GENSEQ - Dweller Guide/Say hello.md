@@ -1,3 +1,0 @@
-# Say hello
-
-When you look at another person you can say hello and introduce yourself. Other people who are looking at you may also choose to say hello to you. You may, for example, already be acquainted with some of the people in the space. By greeting them you can make known your pre-existing relationships. As with making eye contact, the interaction is not instantaneous and may take time to complete. The dweller guide will indicate people to whom you’ve said hello, people who have said hello to you and whether you have responded to each other.

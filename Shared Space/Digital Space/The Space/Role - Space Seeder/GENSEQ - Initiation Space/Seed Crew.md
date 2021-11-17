@@ -1,3 +1,0 @@
-# Seed Crew
-
-Holding a space requires team-work. The Seed Crew is a cohesive group of 3-6 people that have trained together in the Initiation Space. A seed crew is a prerequisite for starting a new space. A seed crew may arrive already partially formed to the initiation space. A seed crew may form as Seeders connect with each other within the initiation space. When a cohesive seed crew is formed within the Initiation Space they can seed a Seed Space.

@@ -1,3 +1,0 @@
-# Purpose of the Welcoming
-
-The purpose of this welcoming is to acquaint you with the space. Gaining access to the space requires a mutual sense of belonging. If at any point and for whatever reason you feel you don’t belong in the space, you are welcome to share your thoughts and feelings with the host and you can decide to leave. The host can also decide, on behalf of the space, that you don’t belong in the space.

@@ -1,0 +1,3 @@
+##### Participant Group
+
+When the Gardener confirms your enrollment you are welcomed to a participant group. Your totem is etched both with the enrollment itself and with your new relationships with the other participants. Your Totem will tell the story (to you and to others) of your interest and participation in this group. Now, as a participant in this group, you can learn more about your fellow participants (all of whom are fellow dwellers in the space). The participation in the group creates a shared context in which you may connect and learn about others.

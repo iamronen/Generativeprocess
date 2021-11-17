@@ -1,5 +1,0 @@
-# Signal Fade
-
-Signals fade over time. If signals are a form of currency, fading is like negative interest. Time erodes the potency and relevancy of signals. Signals that are old fade out of memory. If you signal today “I am interested” to another person, that interest may not be valid in a year. Signals can be refreshed. If, after a few months, you signal to the same person that you are “still interested” then the fresh signal keeps the quality of the old signal alive, even though the old signal has faded. Signals that are not refreshed do fade out. It is therefore possible, that if you have are not available to receive negative signals, that some of those signals may fade over time and never reach you.  
-
-The “negative interest” of signaling is also stewarded in the space by the Culturizers as part of the signal vocabulary (different signals may have different “fade rates”). You can also set your own “fade rates” within the limitations set by the Culturizers.

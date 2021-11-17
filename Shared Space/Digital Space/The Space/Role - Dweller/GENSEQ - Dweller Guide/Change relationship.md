@@ -1,3 +1,0 @@
-# Change relationship
-
-Over time you can explicitly change your relationship with another person by proposing a relationship. If, for example, you encounter in the space a friend, you can propose to change your relationship from “stranger” to “friend.” The change will take place if the other person chooses to embrace the change you suggest. While this does not directly impact the reality of your relationship, it does signal to others in the space about the state of the social fabric. The dweller guide indicates your relationships with other people, and relationships between other people.
