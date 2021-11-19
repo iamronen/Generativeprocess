@@ -1,8 +1,8 @@
-# Equity Assessment Process
-## Purpose
+### Equity Assessment Process
+#### Purpose
 During an equity assessment processes the crew consolidates [[GenSeq - Contributions|Contributions]]  made by individuals and the modified perception of the [[GenSeq - Whole|Whole]] and expresses an outcome by generating and assigning Shares.  ^block-purpose
 
-## Sequence
+#### Sequence
 1. ![[Collective Wholeness Retrospective]]
 2. ![[Update Share Pool]]
 3. ![[Calculated Equity Assignment]]

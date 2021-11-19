@@ -1,6 +1,6 @@
 # Fundamental Flow of Money
 ## Purpose
-The purpose of the money process is to enable a flow of monetary currencies that will lead to the manifestation of the digital space.1. !
+The purpose of the money process is to enable a flow of monetary currencies that will lead to the manifestation of the digital space.
 
 ## Sequence
 1. ![[Source]]

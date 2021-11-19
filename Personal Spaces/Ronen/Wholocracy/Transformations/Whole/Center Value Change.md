@@ -1,2 +1,2 @@
- # Center Value Change
+##### Center Value Change
  The value of a center can be modified. When a value of a center changes, the change ripple outwards (to parent centers and their siblings) and inwards (to children centers and their siblings).
