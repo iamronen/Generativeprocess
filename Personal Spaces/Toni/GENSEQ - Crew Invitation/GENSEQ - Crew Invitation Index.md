@@ -1,0 +1,6 @@
+[[Invitation Context]]
+[[Invitation Objective]]
+[[Invitation Norms]]
+[[Invitation Rhythm]]
+[[Invitation Signaling instructions]]
+[[Direct invitations]]

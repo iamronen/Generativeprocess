@@ -1,0 +1,1 @@
+A Dweller that resonates with an [[Invitation to Crew]] can signal interest, and that interest will be reflected in the [[Personal Totem]] of both the one that invite and the one that signal the interest. 
