@@ -1,0 +1,1 @@
+The rythm of the invitation propose a pattern of time in which the crew will do synchronous and asynchronous work, that gives a general idea of the commitment required to those involved in the crew. 

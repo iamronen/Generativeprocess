@@ -1,0 +1,1 @@
+The [[Invitation to crew]] can signal particular Dwellers that either participated or inspired the [[Crew Spark]] that generated it, either the participant that throws the invitation to the pond considers that they can contribute to the unfolding of the invitation.
