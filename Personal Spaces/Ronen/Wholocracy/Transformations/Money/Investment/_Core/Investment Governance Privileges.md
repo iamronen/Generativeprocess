@@ -1,0 +1,2 @@
+##### Investment Governance Privileges 
+An investment does entitle an investor to governance privileges. These privileges enable the investor to participate in governance processes that pertain to the investment.

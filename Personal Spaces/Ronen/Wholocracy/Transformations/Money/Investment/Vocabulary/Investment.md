@@ -1,0 +1,2 @@
+##### Investment
+An amount of money offered to support the needs of people who dedicate themselves to the manifestation of the digital space. An investment can be linked to a [[Designated Purpose of Investment|designated purpose]].

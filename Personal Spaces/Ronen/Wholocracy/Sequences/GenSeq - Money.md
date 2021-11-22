@@ -11,5 +11,5 @@ The scope of the domain of Money within the digital space.
 %%
 1.  ![[Salaries]]
 2.  ![[Revenue Sharing]]
-3.  ![[Retirement Funding]]
+3.  ![[Personal Spaces/Ronen/Wholocracy/Transformations/Money/_Core/Retirement Funding]]
 %%
