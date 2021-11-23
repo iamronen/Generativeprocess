@@ -1,1 +1,2 @@
- The objective defined in the invitation to crew is concrete enough for resonating souls being able to imagine how it could be achieved, not concrete enough to depict with detail how it should be achieved. 
+##### Invitation Objective 
+The objective defined in the invitation to crew is concrete enough for resonating souls being able to imagine how it could be achieved, not concrete enough to depict with detail how it should be achieved. 
