@@ -1,6 +1,7 @@
 # Design Challenges
 
 ## Reputation
+[Proof of Humanity](https://blog.kleros.io/proof-of-humanity-an-explainer/)
 
 ### Links
 [Holochain Neighborhoods](https://neighbourhoods.network/)
@@ -15,6 +16,9 @@ kinship vs tributary vs capitalist modes of production
 ### Living Examples
 [Stack Overflow](https://stackoverflow.com/)
 
+
+## Value
+[[Coordinape]]
 
 ## Emotional
 
