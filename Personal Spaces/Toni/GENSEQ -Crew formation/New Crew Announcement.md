@@ -1,1 +1,2 @@
+#### New Crew Announcement
 If Cycle Zero has been completed and a group has expressed its willingness to continue into its first cycle, then they crew in the Remote Microsolidarity Crews Hall, with the goal/purpose of the crew and a way to contact. This is marked as a contribution in the [[Personal Totem]] of the Dwellers and [[Gardeners]] mentioned in the [[Invitation Context]].

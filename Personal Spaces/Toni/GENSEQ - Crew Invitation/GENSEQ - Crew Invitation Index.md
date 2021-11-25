@@ -1,7 +1,7 @@
 ### Crew Invitation 
 
 #### Purpose
-text needed about the purpose of this sequence
+An Invitation to Crew is informe by what happens in the Space and crafted in a way that convene the right people and sets the right expectations to make the proposal happen.
 
 #### Sequence
 2. ![[Invitation Context]]
