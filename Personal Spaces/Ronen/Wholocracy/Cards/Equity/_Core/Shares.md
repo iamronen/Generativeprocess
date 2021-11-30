@@ -1,2 +1,0 @@
-# Shares
-Shares are a form of internal currency, created, shaped and distributed by the crew.  They are a quantified representations of the perceived contributions to the whole.. Their creation and assignment can only be affected by the crew and through agreed processes. There can be numerous kinds of shares (different currencies). They have no intrinsic monetary value and cannot be traded.

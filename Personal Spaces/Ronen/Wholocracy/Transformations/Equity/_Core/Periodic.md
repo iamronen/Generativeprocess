@@ -1,0 +1,2 @@
+##### Periodic
+Equity assessment are periodic. They can correlate to [[Work Cycle]] but may also align with other cycles or have their own innate rhythm. An equity assessment will typically take place after a [[Work Cycle]] is completed.  They are best performed when the felt experience of the work that is being assessed is fresh and accessible. 

@@ -1,9 +1,9 @@
-# Contributions
+### Contributions
 
-## Purpose
+#### Purpose
 This sequence describes how contributions are recognized, documented and shared.
 
-## Sequence
+#### Sequence
 1. ![[Work Cycle]]
 2. ![[Work Contribution]]
 3. ![[Announcer]]

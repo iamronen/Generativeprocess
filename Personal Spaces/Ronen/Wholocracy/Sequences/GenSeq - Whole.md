@@ -1,9 +1,9 @@
-# Whole
+### Whole
 
-## Purpose
+#### Purpose
 This sequence describes how a whole unfolds as centers come into being and transform.
 
-## Sequence
+#### Sequence
 
 1. ![[Initial Whole]]
 2. ![[Center]]

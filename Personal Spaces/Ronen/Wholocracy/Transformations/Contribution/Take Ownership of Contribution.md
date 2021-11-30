@@ -1,0 +1,2 @@
+##### Take Ownership of Contribution
+When an announcer declares a contribution and attributes it to someone else, the attributed crew member is notified and required to take ownership of the attributed contribution.

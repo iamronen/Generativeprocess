@@ -1,0 +1,3 @@
+##### Signals
+
+Signals are a means of both internal reflection and communication between dwellers of a space. Good signaling helps you better understand yourself and increases the odds of making meaningful connections with others in the space. A basic example of a signal is “making eye contact.” When you generate this signal it becomes a conscious recognition within yourself of resonance with another dweller and a potential recognition by the other dweller of your feelings of resonance. Signals, both those you send and those you receive, are etched into your totem.

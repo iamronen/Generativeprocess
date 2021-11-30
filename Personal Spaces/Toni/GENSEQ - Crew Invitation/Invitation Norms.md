@@ -1,0 +1,2 @@
+##### Invitation Norms
+The norms in the invitation are a list of brief rules offered as a starting point and to set the tone for the formation of the crew. They are open to discussion, refinement, and change as the crew discovers how they want to work together.

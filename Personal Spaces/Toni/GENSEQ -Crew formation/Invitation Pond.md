@@ -1,0 +1,2 @@
+#### Invitation Pond
+The Space has a quiet and relaxing pond. In its shore, an inhabitant of the Space can sit and throw and [[Invitation to Crew]], or observe and reflect on Invitations to Crew that have been thrown by others. 

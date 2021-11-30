@@ -1,0 +1,2 @@
+##### Rank Contributions Effort
+Each crew member can, throughout a work cycle, rank-sort contributions from most impact to least impact. This is a personal perspective and does not require, at this point, agreement.

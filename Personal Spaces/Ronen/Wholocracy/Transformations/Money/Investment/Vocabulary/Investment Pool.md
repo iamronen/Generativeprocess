@@ -1,0 +1,2 @@
+ ##### Investment Pool 
+ The aggregated funds collected by an [[Investor Pool]] form an investment pool. Like an [[Personal Spaces/Ronen/Wholocracy/Transformations/Money/Investment/Vocabulary/Investment|Investment]], an investment pool can be linked to a [[Designated Purpose of Investment|designated purpose]].

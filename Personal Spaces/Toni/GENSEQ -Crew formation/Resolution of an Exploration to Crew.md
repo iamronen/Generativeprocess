@@ -1,0 +1,2 @@
+#### Resolution of an Exploration to Crew
+The [[Crew Source]] withdraws the [[Invitation to Crew]] from the [[Invitation Pond]] if after the [[Exploration to Crew]] a group of at least three Dwellers convene to run a six-weeks Cycle Zero to work together in the terms expressed in the [[Invitation to Crew]], or if reconsiders its actual generativity as a result of the Exploration to Crew. The oucomes are marked in the [[Personal Totem]].

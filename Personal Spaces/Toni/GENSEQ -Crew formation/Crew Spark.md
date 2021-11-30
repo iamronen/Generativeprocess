@@ -1,0 +1,2 @@
+##### Crew Spark
+Either in conversations or individual reflections, a spark for a crew can emerge. The Crew Spark is the crystalization of a desire inspired by what has been experienced in the Space for accomplishing something beyond one's means with kindred spirits that inhabit the Space.

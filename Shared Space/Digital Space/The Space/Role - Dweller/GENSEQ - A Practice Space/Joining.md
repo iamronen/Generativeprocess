@@ -1,3 +1,0 @@
-# Joining
-
-After being welcomed, you hold your personal totem in hand and the glass panels and the entrance itself seem to dissolve and you find yourself inside the space. You are standing at the periphery of the space where you can take in the entire space. Again, you make eye-contact with some of the people in the space. From the corner of your eye, you notice shimmering lights on the wall next to you and turn to look at it. On the wall, you encounter for the first time, the dweller guide, the event guide, and the initiative guide.

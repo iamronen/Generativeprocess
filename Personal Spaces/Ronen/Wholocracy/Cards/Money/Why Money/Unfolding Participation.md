@@ -1,2 +1,0 @@
-# Unfolding Participation 
-By finding a healthy and effective way to participate in money we ensure that we are connecting to that which already exists. By connecting with that which already exists we ensure that our work is a wholeness preserving transformation in the larger unfolding of which we are a part.

@@ -1,2 +1,0 @@
-# Contribution
-A crew member can add a contribution. A contribution is by default attributed to the member who created it. It can also be attributed to another member. A contribution is associated to the current work-cycle.

@@ -1,0 +1,2 @@
+##### Invitation Context 
+The context of the invitation captures the experiencial wherabouts in the space and beyond it that inspired an invitation. Mentions of Dwelers and Activities in the Context generate marks in the Gardeners of those activities and in the Dwelers. 

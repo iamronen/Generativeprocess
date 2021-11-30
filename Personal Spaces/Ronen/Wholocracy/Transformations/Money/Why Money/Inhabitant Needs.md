@@ -1,0 +1,2 @@
+#### # Inhabitant Needs
+ We are dealing with money in order to establish patterns that will tend to the needs of future inhabitants of the space. Culturizers and Gardeners will become an extension of the team. Their needs also need to be met to ensure the success of the digital space. Though we cannot be directly accountable for meeting their needs, we can put in place patterns that will support them in together addressing their needs through their participation in the digital space.

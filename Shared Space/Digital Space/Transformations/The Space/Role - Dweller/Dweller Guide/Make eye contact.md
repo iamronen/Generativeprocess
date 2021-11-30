@@ -1,0 +1,3 @@
+##### Make eye contact
+
+When you look at another person you can ask them to make eye-contact. Doing so will explicitly signal the other person that you’ve looked at them and that you wish to make eye-contact. When the other person receives that signal, they will look at you. This potential is mutual. If someone else asks to make eye-contact with you, you will be notified and can choose to look at them. In a real-life setting, this happens naturally and often simultaneously. Here in the remote digital space this interaction is not instantaneous and may take time to complete. The dweller guide will indicate people with whom you’ve made eye contact, people who have made eye contact with you and whether you have made eye contact with each other.
